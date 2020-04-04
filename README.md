@@ -1,6 +1,6 @@
 # GCN_MAE
 
-![][GCN_MAE.png]
+![](GCN_MAE.png)
 
 Cancer subtype classification and modeling by pathway attention and propagation
 
